@@ -1,0 +1,4 @@
+{
+    "input": "$util.escapeJavaScript($input.json('$'))",
+    "stateMachineArn": "<STATE MACHINE ARN>" 
+}
