@@ -1,0 +1,6 @@
+{
+  "error": "BadRequest",
+  "message": "Invalid input. Please provide a valid executionId and payload.",
+  "details": "$input.path('$.errorMessage')"
+}
+

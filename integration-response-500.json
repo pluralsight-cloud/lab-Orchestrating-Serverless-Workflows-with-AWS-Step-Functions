@@ -1,0 +1,6 @@
+{
+  "error": "Internal Server Error",
+  "message": "Unable to start the State Machine execution.",
+  "details": "$input.path('$.errorMessage')"
+}
+

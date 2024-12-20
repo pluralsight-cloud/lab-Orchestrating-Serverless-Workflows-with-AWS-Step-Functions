@@ -1,0 +1,4 @@
+{
+  "executionArn": "$input.path('$.executionArn')",
+  "startDate": "$input.path('$.startDate')"
+}
