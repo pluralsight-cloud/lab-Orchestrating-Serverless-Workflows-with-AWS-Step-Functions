@@ -1,0 +1,7 @@
+curl -X PUT "<DEV STAGE URL>/order" -H "Content-Type: application/json" -d '{
+  "id": "12345",
+  "pie": "apple",
+  "quantity": 3,
+  "customerName": "John Doe",
+  "deliveryDate": "2024-12-15"
+}'
